@@ -1,7 +1,6 @@
 ## Providing top-quality Linux and Infrastructure services
 
 Cloud computing, Infrastructure as Code (IaC), configuration management, CI/CD workflows, container orchestration, web applications infrastructure, databases, system troubleshooting, you name it - we can deal with it.
-TailBliss Hero 
 
 ## Our services
 
